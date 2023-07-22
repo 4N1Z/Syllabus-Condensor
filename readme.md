@@ -25,11 +25,15 @@ Syllabus Condenser is a natural language processing (NLP) based project that aim
 ## Installation
 
 1. Clone the repository from GitHub:
+   
+   `https://github.com/4N1Z/Syllabus-Condensor.git`
 
-2. Install the required Python packages:
+3. Install the required Python packages:
+
+   `python install -r requirements.txt`
 
 
-3. Set up MongoDB:
+5. Set up MongoDB:
 - Install MongoDB on your machine and start the MongoDB server.
 - Create a database named 'syllabus_data' to store the extracted syllabus content.
 
