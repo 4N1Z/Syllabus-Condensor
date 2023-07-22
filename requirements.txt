@@ -1,0 +1,9 @@
+bardapi
+pypdf2
+pytesseract
+pillow
+streamlit
+pymongo
+pandas
+python-dotenv
+altair==4.0
