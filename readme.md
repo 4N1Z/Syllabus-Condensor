@@ -19,6 +19,7 @@ Syllabus Condenser is a natural language processing (NLP) based project that aim
 ## Requirements
 
 - Python 3.x
+- Streamlit
 - MongoDB
 - OpenAI API Key
 
@@ -53,6 +54,9 @@ Syllabus Condenser is a natural language processing (NLP) based project that aim
 3. Generate Answer:
 - Provide a user prompt related to the syllabus content.
 - The system will use the prompt, retrieve relevant information from the MongoDB database, and generate an accurate answer using the OpenAI API.
+## Output
+![WhatsApp Image 2023-07-22 at 2 13 21 PM](https://github.com/4N1Z/Syllabus-Condensor/assets/91843271/bc3836fd-7a16-4a39-aea0-385a6bbde437)
+![WhatsApp Image 2023-07-22 at 2 13 56 PM](https://github.com/4N1Z/Syllabus-Condensor/assets/91843271/6979246b-bc2d-4b20-8c44-f8d640b50fcc)
 
 ## License
 
