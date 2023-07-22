@@ -19,7 +19,7 @@ session.headers = {
             "Origin": "https://bard.google.com",
             "Referer": "https://bard.google.com/",
         }
-
+# We used BARD
 session.cookies.set("__Secure-1PSID", os.getenv("_BARD_API_KEY")) 
 
 bard = Bard(session=session, timeout=30)
